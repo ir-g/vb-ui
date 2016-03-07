@@ -3,7 +3,7 @@ title,Welcome!
 |break,false
 |label,lbl2,Username:
 |textbox,txt1,false
-|label,lbl2,Password:
+|label,lbl3,Password:
 |textbox,txt2,true
 |button,btn1,Login
 |button,btn2,Signup
