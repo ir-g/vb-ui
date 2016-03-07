@@ -7,3 +7,11 @@ title,Welcome!
 |textbox,txt2,true
 |button,btn1,Login
 |button,btn2,Signup
+|break,true
+|break,true
+|break,true
+|break,true
+|break,true
+|break,true
+|break,true
+|label,lbl3,Room for a scrollbar is automatically added in 
