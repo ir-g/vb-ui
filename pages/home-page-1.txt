@@ -15,3 +15,5 @@ title,Welcome!
 |break,true
 |break,true
 |label,lbl3,Room for a scrollbar is automatically added in 
+|label,lbl4,This page is fetched from:
+|label,lbl4,https://raw.githubusercontent.com/isaacrg/vb-ui/gh-pages/pages/home-page-1.txt
