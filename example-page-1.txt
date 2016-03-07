@@ -1,6 +1,9 @@
 title,Welcome!
 |label,lbl1,Welcome to testuigen
+|break,false
+|label,lbl2,Username:
 |textbox,txt1,false
+|label,lbl2,Password:
 |textbox,txt2,true
-|button,btn1,Click btn1
-|button,btn2,Click btn2
+|button,btn1,Login
+|button,btn2,Signup
