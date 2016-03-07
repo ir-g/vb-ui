@@ -1,5 +1,6 @@
 title,Welcome!
 |label,lbl1,Welcome to testuigen
 |textbox,txt1,false
+|textbox,txt2,true
 |button,btn1,Click btn1
 |button,btn2,Click btn2
